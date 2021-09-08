@@ -2,7 +2,7 @@
 ### Hi there I'm Jessica 👋
 I'm Jessica Verduzco, a 30-year old technical enthusiast who does FrontEnd development, currently working with Improving Nearshore. Passionate to contribute and make cool products.<br>
 
-- 🌱 I’m currently learning Cloud
+- 🌱 I’m currently learning AWS cloud solutions
 - 👀 I’m interested in front end development, machine learning and artificial intelligence, video games and traveling!
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I'm vegetarian :D
